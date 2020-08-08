@@ -1,7 +1,7 @@
 """
 Written by: Michael Chitwa (u7199577@anu.edu.au)
-This is a tax calculating program. It calculates takes within different salary brackets and writes the result to an
-HTML File
+This is a simple tax calculating program. It calculates taxes within different salary brackets and saves the result to
+an HTML File. Income thresholds and the rate per bracket are given below:
 Income thresholds   Rate
 $0 - $18,200        0%
 $18,201 - $37,000   19%
